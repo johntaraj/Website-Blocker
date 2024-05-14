@@ -49,13 +49,16 @@ Host File Blocker is a simple GUI application built with Python and PyQt5 that a
 ## Screenshots
 
 ### Block Website Tab
-![image](https://github.com/xota1999/Host-Blocker/assets/73914338/be938170-b11e-4649-bc22-a9c1cdad5ef0)
-![image](https://github.com/xota1999/Host-Blocker/assets/73914338/8d20f3a1-5482-420b-a093-da9b2b26818f)
+![image](https://github.com/johntaraj/Website-Blocker/assets/134852121/2ad3bbe3-1f61-4830-9d3a-f05f4ba18638)
+![image](https://github.com/johntaraj/Website-Blocker/assets/134852121/72d861a2-5af3-4858-bbda-c2656ca0d112)
+
 
 
 ### Manage Blocked Websites Tab
-![image](https://github.com/xota1999/Host-Blocker/assets/73914338/f207abeb-64be-49ec-9e93-184483fa9b4e)
-![image](https://github.com/xota1999/Host-Blocker/assets/73914338/48fa7729-40a9-4663-9d0b-744c728b3079)
+
+![image](https://github.com/johntaraj/Website-Blocker/assets/134852121/93a1f2b9-d5d6-4281-a8b9-c69758c0c8e1)
+![image](https://github.com/johntaraj/Website-Blocker/assets/134852121/0af8dac3-1ab8-46bb-80f0-33efad2bbb38)
+
 
 ## Notes
 

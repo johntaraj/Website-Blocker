@@ -1,6 +1,6 @@
 # Host File Blocker
 
-Host File Blocker is a simple GUI application built with Python and PyQt5 that allows you to block and unblock websites by modifying the `hosts` file on a Windows system. It provides an easy-to-use interface for managing blocked websites.
+Host File Blocker is a simple GUI application built with Python and Tkinter that allows you to block and unblock websites by modifying the `hosts` file on a Windows system. It provides an easy-to-use interface for managing blocked websites.
 
 ## Features
 

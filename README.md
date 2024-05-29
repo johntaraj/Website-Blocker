@@ -9,6 +9,20 @@ Host File Blocker is a simple GUI application built with Python and Tkinter that
 - View a list of currently blocked websites.
 - Simple and intuitive GUI built with tkinter.
 
+## DEMO
+
+### Block Website Tab
+![image](https://github.com/johntaraj/Website-Blocker/assets/134852121/2ad3bbe3-1f61-4830-9d3a-f05f4ba18638)
+![image](https://github.com/johntaraj/Website-Blocker/assets/134852121/72d861a2-5af3-4858-bbda-c2656ca0d112)
+
+
+### Manage Blocked Websites Tab
+
+![image](https://github.com/johntaraj/Website-Blocker/assets/134852121/93a1f2b9-d5d6-4281-a8b9-c69758c0c8e1)
+![image](https://github.com/johntaraj/Website-Blocker/assets/134852121/0af8dac3-1ab8-46bb-80f0-33efad2bbb38)
+
+
+
 ## Requirements
 
 - Python 3.x
@@ -45,19 +59,6 @@ Host File Blocker is a simple GUI application built with Python and Tkinter that
 - To block a website, it adds an entry that redirects the domain to `127.0.0.1`.
 - To unblock a website, it removes the corresponding entry from the `hosts` file.
 - The application backs up the original `hosts` file before making any changes.
-
-## DEMO
-
-### Block Website Tab
-![image](https://github.com/johntaraj/Website-Blocker/assets/134852121/2ad3bbe3-1f61-4830-9d3a-f05f4ba18638)
-![image](https://github.com/johntaraj/Website-Blocker/assets/134852121/72d861a2-5af3-4858-bbda-c2656ca0d112)
-
-
-
-### Manage Blocked Websites Tab
-
-![image](https://github.com/johntaraj/Website-Blocker/assets/134852121/93a1f2b9-d5d6-4281-a8b9-c69758c0c8e1)
-![image](https://github.com/johntaraj/Website-Blocker/assets/134852121/0af8dac3-1ab8-46bb-80f0-33efad2bbb38)
 
 
 ## Notes

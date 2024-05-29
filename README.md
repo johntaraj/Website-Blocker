@@ -46,7 +46,7 @@ Host File Blocker is a simple GUI application built with Python and Tkinter that
 - To unblock a website, it removes the corresponding entry from the `hosts` file.
 - The application backs up the original `hosts` file before making any changes.
 
-## Screenshots
+## DEMO
 
 ### Block Website Tab
 ![image](https://github.com/johntaraj/Website-Blocker/assets/134852121/2ad3bbe3-1f61-4830-9d3a-f05f4ba18638)
